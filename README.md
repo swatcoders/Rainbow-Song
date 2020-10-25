@@ -1,2 +1,4 @@
 # Rainbow-Song
-A Song About Rambow
+A Song About Rambow written by Noor Alam 
+The Amazing Song is almost done
+
